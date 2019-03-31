@@ -1,0 +1,344 @@
+[INFO] 15:58:08:442 unProgramaQueLOguea/(7597:7597): Soy un log
+[INFO] 16:02:21:381 unProgramaQueLOguea/(7848:7848): Soy un log
+[INFO] 16:08:30:900 unProgramaQueLOguea/(8141:8141): Soy un log
+[INFO] 16:08:30:906 unProgramaQueLOguea/(8141:8141): Hola, soy un valor
+[INFO] 16:15:32:408 unProgramaQueLOguea/(8387:8387): Soy un log
+[INFO] 16:15:32:417 un logueo/(8387:8387): Hola, soy un valor
+[INFO] 16:20:15:997 unProgramaQueLOguea/(8741:8741): Soy un log
+[INFO] 16:20:15:4 un logueo/(8741:8741): Hola, soy un valor
+[INFO] 16:20:56:547 unProgramaQueLOguea/(8788:8788): Soy un log
+[INFO] 16:20:56:553 un logueo/(8788:8788): Hola, soy un valor
+[INFO] 16:21:27:723 unProgramaQueLOguea/(8847:8847): Soy un log
+[INFO] 16:21:27:736 un logueo/(8847:8847): Hola, soy un valor
+[INFO] 16:25:25:370 unProgramaQueLOguea/(9010:9010): Soy un log
+[INFO] 16:25:25:374 un logueo/(9010:9010): Hola, soy un valor
+[INFO] 16:25:47:276 unProgramaQueLOguea/(9056:9056): Soy un log
+[INFO] 16:25:47:284 un logueo/(9056:9056): Hola, soy un valor
+[INFO] 16:25:58:503 unProgramaQueLOguea/(9086:9086): Soy un log
+[INFO] 16:25:58:515 un logueo/(9086:9086): Hola, soy un valor
+[INFO] 16:33:06:257 unProgramaQueLOguea/(9444:9444): Soy un log
+[INFO] 16:33:06:272 un logueo/(9444:9444): Hola, soy un valor
+[INFO] 16:33:41:40 unProgramaQueLOguea/(9508:9508): Soy un log
+[INFO] 16:33:41:47 un logueo/(9508:9508): Hola, soy un valor
+[INFO] 16:34:15:809 unProgramaQueLOguea/(9545:9545): Soy un log
+[INFO] 16:34:15:811 un logueo/(9545:9545): Hola, soy un valor
+[INFO] 16:34:41:403 unProgramaQueLOguea/(9562:9562): Soy un log
+[INFO] 16:34:41:412 un logueo/(9562:9562): Hola, soy un valor
+[INFO] 16:35:23:225 unProgramaQueLOguea/(9606:9606): Soy un log
+[INFO] 16:35:23:237 un logueo/(9606:9606): Hola, soy un valor
+[INFO] 16:35:26:156 un logueo/(9606:9606): asd
+[INFO] 16:39:47:151 unProgramaQueLOguea/(9721:9721): Soy un log
+[INFO] 16:39:47:157 un logueo/(9721:9721): Hola, soy un valor
+[INFO] 16:40:01:902 unProgramaQueLOguea/(9753:9753): Soy un log
+[INFO] 16:40:01:918 un logueo/(9753:9753): Hola, soy un valor
+[INFO] 16:40:05:497 un logueo/(9753:9753): test
+[INFO] 16:44:35:975 unProgramaQueLOguea/(9987:9987): Soy un log
+[INFO] 16:44:35:983 un logueo/(9987:9987): Hola, soy un valor
+[INFO] 17:31:18:342 unProgramaQueLOguea/(12377:12377): Soy un log
+[INFO] 17:31:18:345 un logueo/(12377:12377): 127.0.0.1
+[INFO] 17:31:18:346 un logueo/(12377:12377): 4444
+[INFO] 17:31:53:872 unProgramaQueLOguea/(12425:12425): Soy un log
+[INFO] 17:31:53:872 un logueo/(12425:12425): 127.0.0.1
+[INFO] 17:31:53:873 un logueo/(12425:12425): 4444
+[INFO] 17:34:43:645 unProgramaQueLOguea/(12660:12660): Soy un log
+[INFO] 17:34:43:650 un logueo/(12660:12660): 127.0.0.1
+[INFO] 17:34:43:651 un logueo/(12660:12660): 4444
+[INFO] 17:36:29:769 unProgramaQueLOguea/(12745:12745): Soy un log
+[INFO] 17:36:29:770 un logueo/(12745:12745): 127.0.0.1
+[INFO] 17:36:29:771 un logueo/(12745:12745): 4444
+[INFO] 17:36:51:881 unProgramaQueLOguea/(12780:12780): Soy un log
+[INFO] 17:36:51:882 un logueo/(12780:12780): 127.0.0.1
+[INFO] 17:36:51:882 un logueo/(12780:12780): 4444
+[INFO] 17:37:24:183 unProgramaQueLOguea/(12831:12831): Soy un log
+[INFO] 17:37:24:194 un logueo/(12831:12831): 127.0.0.1
+[INFO] 17:37:24:195 un logueo/(12831:12831): 4444
+[INFO] 17:38:09:472 unProgramaQueLOguea/(12875:12875): Soy un log
+[INFO] 17:38:09:474 un logueo/(12875:12875): 127.0.0.1
+[INFO] 17:38:09:474 un logueo/(12875:12875): 4444
+[INFO] 17:39:23:663 unProgramaQueLOguea/(12932:12932): Soy un log
+[INFO] 17:39:23:668 un logueo/(12932:12932): Obteniendo datos
+[INFO] 17:39:23:668 un logueo/(12932:12932): 127.0.0.1
+[INFO] 17:39:23:669 un logueo/(12932:12932): Obteniendo datos
+[INFO] 17:39:23:674 un logueo/(12932:12932): 4444
+[INFO] 17:40:38:890 unProgramaQueLOguea/(12991:12991): Soy un log
+[INFO] 17:40:38:891 un logueo/(12991:12991): Obteniendo datos
+[INFO] 17:40:38:891 un logueo/(12991:12991): 127.0.0.1
+[INFO] 17:40:38:892 un logueo/(12991:12991): Obteniendo datos
+[INFO] 17:40:38:892 un logueo/(12991:12991): 4444
+[INFO] 17:44:00:522 unProgramaQueLOguea/(13110:13110): Soy un log
+[INFO] 17:44:00:523 un logueo/(13110:13110): Obteniendo datos
+[INFO] 17:44:00:523 un logueo/(13110:13110): 127.0.0.1
+[INFO] 17:44:00:523 un logueo/(13110:13110): Obteniendo datos
+[INFO] 17:44:00:523 un logueo/(13110:13110): 4444
+[INFO] 17:46:59:295 unProgramaQueLOguea/(13369:13369): Soy un log
+[INFO] 17:46:59:297 un logueo/(13369:13369): Obteniendo datos
+[INFO] 17:46:59:297 un logueo/(13369:13369): 127.0.0.1
+[INFO] 17:46:59:298 un logueo/(13369:13369): Obteniendo datos
+[INFO] 17:46:59:298 un logueo/(13369:13369): 4444
+[INFO] 17:48:07:745 unProgramaQueLOguea/(13422:13422): Soy un log
+[INFO] 17:48:07:746 un logueo/(13422:13422): Obteniendo datos
+[INFO] 17:48:07:746 un logueo/(13422:13422): 127.0.0.1
+[INFO] 17:48:07:746 un logueo/(13422:13422): Obteniendo datos
+[INFO] 17:48:07:747 un logueo/(13422:13422): 4444
+[INFO] 17:48:28:736 unProgramaQueLOguea/(13455:13455): Soy un log
+[INFO] 17:48:28:738 un logueo/(13455:13455): Obteniendo datos
+[INFO] 17:48:28:738 un logueo/(13455:13455): 127.0.0.1
+[INFO] 17:48:28:738 un logueo/(13455:13455): Obteniendo datos
+[INFO] 17:48:28:738 un logueo/(13455:13455): 4444
+[INFO] 17:48:37:450 unProgramaQueLOguea/(13473:13473): Soy un log
+[INFO] 17:48:37:453 un logueo/(13473:13473): Obteniendo datos
+[INFO] 17:48:37:457 un logueo/(13473:13473): 127.0.0.1
+[INFO] 17:48:37:457 un logueo/(13473:13473): Obteniendo datos
+[INFO] 17:48:37:457 un logueo/(13473:13473): 4444
+[INFO] 20:34:01:89 unProgramaQueLOguea/(5011:5011): Soy un log
+[INFO] 20:34:01:89 un logueo/(5011:5011): Iniciando conexion
+[INFO] 20:34:01:89 un logueo/(5011:5011): Obteniendo datos
+[INFO] 20:34:01:90 un logueo/(5011:5011): 127.0.0.1
+[INFO] 20:34:01:90 un logueo/(5011:5011): Obteniendo datos
+[INFO] 20:34:01:90 un logueo/(5011:5011): 4444
+[INFO] 20:34:01:92 un logueo/(5011:5011): Conexion iniciada!
+[INFO] 20:35:38:690 unProgramaQueLOguea/(5090:5090): Soy un log
+[INFO] 20:35:38:700 un logueo/(5090:5090): Iniciando conexion
+[INFO] 20:35:38:702 un logueo/(5090:5090): Obteniendo datos
+[INFO] 20:35:38:705 un logueo/(5090:5090): 127.0.0.1
+[INFO] 20:35:38:705 un logueo/(5090:5090): Obteniendo datos
+[INFO] 20:35:38:707 un logueo/(5090:5090): 4444
+[INFO] 20:35:38:708 un logueo/(5090:5090): Conexion iniciada!
+[INFO] 20:36:55:223 unProgramaQueLOguea/(5152:5152): Soy un log
+[INFO] 20:36:55:225 un logueo/(5152:5152): Iniciando conexion
+[INFO] 20:36:55:226 un logueo/(5152:5152): Obteniendo datos
+[INFO] 20:36:55:226 un logueo/(5152:5152): 127.0.0.1
+[INFO] 20:36:55:226 un logueo/(5152:5152): Obteniendo datos
+[INFO] 20:36:55:226 un logueo/(5152:5152): 4444
+[INFO] 20:36:55:230 un logueo/(5152:5152): Conexion iniciada!
+[INFO] 20:37:09:729 unProgramaQueLOguea/(5177:5177): Soy un log
+[INFO] 20:37:09:735 un logueo/(5177:5177): Iniciando conexion
+[INFO] 20:37:09:735 un logueo/(5177:5177): Obteniendo datos
+[INFO] 20:37:09:735 un logueo/(5177:5177): 127.0.0.1
+[INFO] 20:37:09:735 un logueo/(5177:5177): Obteniendo datos
+[INFO] 20:37:09:737 un logueo/(5177:5177): 4444
+[INFO] 20:37:09:737 un logueo/(5177:5177): Conexion iniciada!
+[INFO] 20:38:50:598 unProgramaQueLOguea/(5265:5265): Soy un log
+[INFO] 20:38:50:603 un logueo/(5265:5265): Iniciando conexion
+[INFO] 20:38:50:603 un logueo/(5265:5265): Obteniendo datos
+[INFO] 20:38:50:606 un logueo/(5265:5265): 127.0.0.1
+[INFO] 20:38:50:606 un logueo/(5265:5265): Obteniendo datos
+[INFO] 20:38:50:606 un logueo/(5265:5265): 4444
+[INFO] 20:38:50:606 un logueo/(5265:5265): Conexion iniciada!
+[INFO] 20:39:03:601 unProgramaQueLOguea/(5290:5290): Soy un log
+[INFO] 20:39:03:602 un logueo/(5290:5290): Iniciando conexion
+[INFO] 20:39:03:607 un logueo/(5290:5290): Obteniendo datos
+[INFO] 20:39:03:608 un logueo/(5290:5290): 127.0.0.1
+[INFO] 20:39:03:608 un logueo/(5290:5290): Obteniendo datos
+[INFO] 20:39:03:608 un logueo/(5290:5290): 4444
+[INFO] 20:39:03:609 un logueo/(5290:5290): Conexion iniciada!
+[INFO] 20:39:49:261 unProgramaQueLOguea/(5331:5331): Soy un log
+[INFO] 20:39:49:262 un logueo/(5331:5331): Iniciando conexion
+[INFO] 20:39:49:262 un logueo/(5331:5331): Obteniendo datos
+[INFO] 20:39:49:263 un logueo/(5331:5331): 127.0.0.1
+[INFO] 20:39:49:263 un logueo/(5331:5331): Obteniendo datos
+[INFO] 20:39:49:263 un logueo/(5331:5331): 4444
+[INFO] 20:39:49:264 un logueo/(5331:5331): Conexion iniciada!
+[INFO] 20:41:24:571 unProgramaQueLOguea/(5505:5505): Soy un log
+[INFO] 20:41:24:575 un logueo/(5505:5505): Iniciando conexion
+[INFO] 20:41:24:575 un logueo/(5505:5505): Obteniendo datos
+[INFO] 20:41:24:575 un logueo/(5505:5505): 127.0.0.1
+[INFO] 20:41:24:575 un logueo/(5505:5505): Obteniendo datos
+[INFO] 20:41:24:575 un logueo/(5505:5505): 4444
+[INFO] 20:41:24:576 un logueo/(5505:5505): Conexion iniciada!
+[INFO] 20:41:34:911 unProgramaQueLOguea/(5525:5525): Soy un log
+[INFO] 20:41:34:917 un logueo/(5525:5525): Iniciando conexion
+[INFO] 20:41:34:920 un logueo/(5525:5525): Obteniendo datos
+[INFO] 20:41:34:920 un logueo/(5525:5525): 127.0.0.1
+[INFO] 20:41:34:920 un logueo/(5525:5525): Obteniendo datos
+[INFO] 20:41:34:921 un logueo/(5525:5525): 4444
+[INFO] 20:41:34:921 un logueo/(5525:5525): Conexion iniciada!
+[INFO] 20:42:21:368 unProgramaQueLOguea/(5568:5568): Soy un log
+[INFO] 20:42:21:383 un logueo/(5568:5568): Iniciando conexion
+[INFO] 20:42:21:383 un logueo/(5568:5568): Obteniendo datos
+[INFO] 20:42:21:383 un logueo/(5568:5568): 127.0.0.1
+[INFO] 20:42:21:383 un logueo/(5568:5568): Obteniendo datos
+[INFO] 20:42:21:383 un logueo/(5568:5568): 4444
+[INFO] 20:42:21:384 un logueo/(5568:5568): Conexion iniciada!
+[INFO] 20:42:59:714 unProgramaQueLOguea/(5627:5627): Soy un log
+[INFO] 20:42:59:728 un logueo/(5627:5627): Iniciando conexion
+[INFO] 20:42:59:728 un logueo/(5627:5627): Obteniendo datos
+[INFO] 20:42:59:729 un logueo/(5627:5627): 127.0.0.1
+[INFO] 20:42:59:729 un logueo/(5627:5627): Obteniendo datos
+[INFO] 20:42:59:732 un logueo/(5627:5627): 4444
+[INFO] 20:42:59:733 un logueo/(5627:5627): Conexion iniciada!
+[INFO] 20:43:24:909 unProgramaQueLOguea/(5665:5665): Soy un log
+[INFO] 20:43:24:911 un logueo/(5665:5665): Iniciando conexion
+[INFO] 20:43:24:911 un logueo/(5665:5665): Obteniendo datos
+[INFO] 20:43:24:911 un logueo/(5665:5665): 127.0.0.1
+[INFO] 20:43:24:911 un logueo/(5665:5665): Obteniendo datos
+[INFO] 20:43:24:911 un logueo/(5665:5665): 4444
+[INFO] 20:43:24:924 un logueo/(5665:5665): Conexion iniciada!
+[INFO] 20:44:34:528 unProgramaQueLOguea/(5748:5748): Soy un log
+[INFO] 20:44:34:528 un logueo/(5748:5748): Iniciando conexion
+[INFO] 20:44:34:529 un logueo/(5748:5748): Obteniendo datos
+[INFO] 20:44:34:529 un logueo/(5748:5748): 127.0.0.1
+[INFO] 20:44:34:529 un logueo/(5748:5748): Obteniendo datos
+[INFO] 20:44:34:530 un logueo/(5748:5748): 4444
+[INFO] 20:44:34:530 un logueo/(5748:5748): Conexion iniciada!
+[INFO] 20:45:04:545 unProgramaQueLOguea/(5786:5786): Soy un log
+[INFO] 20:45:04:549 un logueo/(5786:5786): Iniciando conexion
+[INFO] 20:45:04:549 un logueo/(5786:5786): Obteniendo datos
+[INFO] 20:45:04:549 un logueo/(5786:5786): 127.0.0.1
+[INFO] 20:45:04:550 un logueo/(5786:5786): Obteniendo datos
+[INFO] 20:45:04:550 un logueo/(5786:5786): 4444
+[INFO] 20:45:04:552 un logueo/(5786:5786): Conexion iniciada!
+[INFO] 20:51:17:772 unProgramaQueLOguea/(6381:6381): Soy un log
+[INFO] 20:51:17:777 un logueo/(6381:6381): Iniciando conexion
+[INFO] 20:51:17:777 un logueo/(6381:6381): Obteniendo datos
+[INFO] 20:51:17:778 un logueo/(6381:6381): 127.0.0.1
+[INFO] 20:51:17:778 un logueo/(6381:6381): Obteniendo datos
+[INFO] 20:51:17:779 un logueo/(6381:6381): 4444
+[INFO] 20:51:17:780 un logueo/(6381:6381): Conexion iniciada!
+[INFO] 20:52:01:73 unProgramaQueLOguea/(6432:6432): Soy un log
+[INFO] 20:52:01:77 un logueo/(6432:6432): Iniciando conexion
+[INFO] 20:52:01:77 un logueo/(6432:6432): Obteniendo datos
+[INFO] 20:52:01:77 un logueo/(6432:6432): 127.0.0.1
+[INFO] 20:52:01:77 un logueo/(6432:6432): Obteniendo datos
+[INFO] 20:52:01:78 un logueo/(6432:6432): 4444
+[INFO] 20:52:01:78 un logueo/(6432:6432): Conexion iniciada!
+[INFO] 20:52:07:236 unProgramaQueLOguea/(6445:6445): Soy un log
+[INFO] 20:52:07:238 un logueo/(6445:6445): Iniciando conexion
+[INFO] 20:52:07:239 un logueo/(6445:6445): Obteniendo datos
+[INFO] 20:52:07:239 un logueo/(6445:6445): 127.0.0.1
+[INFO] 20:52:07:239 un logueo/(6445:6445): Obteniendo datos
+[INFO] 20:52:07:239 un logueo/(6445:6445): 4444
+[INFO] 20:52:07:240 un logueo/(6445:6445): Conexion iniciada!
+[INFO] 20:52:49:905 unProgramaQueLOguea/(6498:6498): Soy un log
+[INFO] 20:52:49:909 un logueo/(6498:6498): Iniciando conexion
+[INFO] 20:52:49:909 un logueo/(6498:6498): Obteniendo datos
+[INFO] 20:52:49:910 un logueo/(6498:6498): 127.0.0.1
+[INFO] 20:52:49:910 un logueo/(6498:6498): Obteniendo datos
+[INFO] 20:52:49:910 un logueo/(6498:6498): 4444
+[INFO] 20:52:49:912 un logueo/(6498:6498): Conexion iniciada!
+[INFO] 20:53:26:890 unProgramaQueLOguea/(6558:6558): Soy un log
+[INFO] 20:53:26:894 un logueo/(6558:6558): Iniciando conexion
+[INFO] 20:53:26:894 un logueo/(6558:6558): Obteniendo datos
+[INFO] 20:53:26:894 un logueo/(6558:6558): 127.0.0.1
+[INFO] 20:53:26:894 un logueo/(6558:6558): Obteniendo datos
+[INFO] 20:53:26:895 un logueo/(6558:6558): 4444
+[INFO] 20:53:26:895 un logueo/(6558:6558): Conexion iniciada!
+[INFO] 20:53:37:334 unProgramaQueLOguea/(6572:6572): Soy un log
+[INFO] 20:53:37:337 un logueo/(6572:6572): Iniciando conexion
+[INFO] 20:53:37:337 un logueo/(6572:6572): Obteniendo datos
+[INFO] 20:53:37:337 un logueo/(6572:6572): 127.0.0.1
+[INFO] 20:53:37:338 un logueo/(6572:6572): Obteniendo datos
+[INFO] 20:53:37:338 un logueo/(6572:6572): 4444
+[INFO] 20:53:37:338 un logueo/(6572:6572): Conexion iniciada!
+[INFO] 20:55:06:532 unProgramaQueLOguea/(6735:6735): Soy un log
+[INFO] 20:55:06:540 un logueo/(6735:6735): Iniciando conexion
+[INFO] 20:55:06:541 un logueo/(6735:6735): Obteniendo datos
+[INFO] 20:55:06:541 un logueo/(6735:6735): 127.0.0.1
+[INFO] 20:55:06:541 un logueo/(6735:6735): Obteniendo datos
+[INFO] 20:55:06:541 un logueo/(6735:6735): 4444
+[INFO] 20:55:06:541 un logueo/(6735:6735): Conexion iniciada!
+[INFO] 20:55:12:97 unProgramaQueLOguea/(6756:6756): Soy un log
+[INFO] 20:55:12:102 un logueo/(6756:6756): Iniciando conexion
+[INFO] 20:55:12:103 un logueo/(6756:6756): Obteniendo datos
+[INFO] 20:55:12:103 un logueo/(6756:6756): 127.0.0.1
+[INFO] 20:55:12:103 un logueo/(6756:6756): Obteniendo datos
+[INFO] 20:55:12:103 un logueo/(6756:6756): 4444
+[INFO] 20:55:12:104 un logueo/(6756:6756): Conexion iniciada!
+[INFO] 20:55:36:810 unProgramaQueLOguea/(6812:6812): Soy un log
+[INFO] 20:55:36:819 un logueo/(6812:6812): Iniciando conexion
+[INFO] 20:55:36:820 un logueo/(6812:6812): Obteniendo datos
+[INFO] 20:55:36:820 un logueo/(6812:6812): 127.0.0.1
+[INFO] 20:55:36:820 un logueo/(6812:6812): Obteniendo datos
+[INFO] 20:55:36:820 un logueo/(6812:6812): 4444
+[INFO] 20:55:36:823 un logueo/(6812:6812): Conexion iniciada!
+[INFO] 20:57:31:277 unProgramaQueLOguea/(6988:6988): Soy un log
+[INFO] 20:57:31:278 un logueo/(6988:6988): Iniciando conexion
+[INFO] 20:57:31:278 un logueo/(6988:6988): Obteniendo datos
+[INFO] 20:57:31:278 un logueo/(6988:6988): 127.0.0.1
+[INFO] 20:57:31:278 un logueo/(6988:6988): Obteniendo datos
+[INFO] 20:57:31:278 un logueo/(6988:6988): 4444
+[INFO] 20:57:31:279 un logueo/(6988:6988): Conexion iniciada!
+[INFO] 20:58:27:144 unProgramaQueLOguea/(7043:7043): Soy un log
+[INFO] 20:58:27:144 un logueo/(7043:7043): Iniciando conexion
+[INFO] 20:58:27:145 un logueo/(7043:7043): Obteniendo datos
+[INFO] 20:58:27:145 un logueo/(7043:7043): 127.0.0.1
+[INFO] 20:58:27:145 un logueo/(7043:7043): Obteniendo datos
+[INFO] 20:58:27:145 un logueo/(7043:7043): 4444
+[INFO] 20:58:27:145 un logueo/(7043:7043): Conexion iniciada!
+[INFO] 20:58:37:764 unProgramaQueLOguea/(7067:7067): Soy un log
+[INFO] 20:58:37:765 un logueo/(7067:7067): Iniciando conexion
+[INFO] 20:58:37:766 un logueo/(7067:7067): Obteniendo datos
+[INFO] 20:58:37:768 un logueo/(7067:7067): 127.0.0.1
+[INFO] 20:58:37:768 un logueo/(7067:7067): Obteniendo datos
+[INFO] 20:58:37:768 un logueo/(7067:7067): 4444
+[INFO] 20:58:37:768 un logueo/(7067:7067): Conexion iniciada!
+[INFO] 20:58:53:652 unProgramaQueLOguea/(7097:7097): Soy un log
+[INFO] 20:58:53:654 un logueo/(7097:7097): Iniciando conexion
+[INFO] 20:58:53:654 un logueo/(7097:7097): Obteniendo datos
+[INFO] 20:58:53:654 un logueo/(7097:7097): 127.0.0.1
+[INFO] 20:58:53:654 un logueo/(7097:7097): Obteniendo datos
+[INFO] 20:58:53:655 un logueo/(7097:7097): 4444
+[INFO] 20:58:53:655 un logueo/(7097:7097): Conexion iniciada!
+[INFO] 20:59:11:840 unProgramaQueLOguea/(7117:7117): Soy un log
+[INFO] 20:59:11:841 un logueo/(7117:7117): Iniciando conexion
+[INFO] 20:59:11:841 un logueo/(7117:7117): Obteniendo datos
+[INFO] 20:59:11:841 un logueo/(7117:7117): 127.0.0.1
+[INFO] 20:59:11:844 un logueo/(7117:7117): Obteniendo datos
+[INFO] 20:59:11:844 un logueo/(7117:7117): 4444
+[INFO] 20:59:11:847 un logueo/(7117:7117): Conexion iniciada!
+[INFO] 21:00:29:754 unProgramaQueLOguea/(7216:7216): Soy un log
+[INFO] 21:00:29:757 un logueo/(7216:7216): Iniciando conexion
+[INFO] 21:00:29:758 un logueo/(7216:7216): Obteniendo datos
+[INFO] 21:00:29:758 un logueo/(7216:7216): 127.0.0.1
+[INFO] 21:00:29:759 un logueo/(7216:7216): Obteniendo datos
+[INFO] 21:00:29:759 un logueo/(7216:7216): 4444
+[INFO] 21:00:29:759 un logueo/(7216:7216): Conexion iniciada!
+[INFO] 21:01:43:870 unProgramaQueLOguea/(7297:7297): Soy un log
+[INFO] 21:01:43:871 un logueo/(7297:7297): Iniciando conexion
+[INFO] 21:01:43:871 un logueo/(7297:7297): Obteniendo datos
+[INFO] 21:01:43:871 un logueo/(7297:7297): 127.0.0.1
+[INFO] 21:01:43:871 un logueo/(7297:7297): Obteniendo datos
+[INFO] 21:01:43:871 un logueo/(7297:7297): 4444
+[INFO] 21:01:43:872 un logueo/(7297:7297): Conexion iniciada!
+[INFO] 21:02:22:647 unProgramaQueLOguea/(7340:7340): Soy un log
+[INFO] 21:02:22:647 un logueo/(7340:7340): Iniciando conexion
+[INFO] 21:02:22:648 un logueo/(7340:7340): Obteniendo datos
+[INFO] 21:02:22:648 un logueo/(7340:7340): 127.0.0.1
+[INFO] 21:02:22:648 un logueo/(7340:7340): Obteniendo datos
+[INFO] 21:02:22:648 un logueo/(7340:7340): 4444
+[INFO] 21:02:22:649 un logueo/(7340:7340): Conexion iniciada!
+[INFO] 21:06:20:149 unProgramaQueLOguea/(7593:7593): Soy un log
+[INFO] 21:06:20:149 un logueo/(7593:7593): Iniciando conexion
+[INFO] 21:06:20:149 un logueo/(7593:7593): Obteniendo datos
+[INFO] 21:06:20:149 un logueo/(7593:7593): 127.0.0.1
+[INFO] 21:06:20:149 un logueo/(7593:7593): Obteniendo datos
+[INFO] 21:06:20:149 un logueo/(7593:7593): 4444
+[INFO] 21:06:20:150 un logueo/(7593:7593): Conexion iniciada!
+[INFO] 21:09:00:753 unProgramaQueLOguea/(7764:7764): Soy un log
+[INFO] 21:09:00:753 un logueo/(7764:7764): Iniciando conexion
+[INFO] 21:09:00:754 un logueo/(7764:7764): Obteniendo datos
+[INFO] 21:09:00:754 un logueo/(7764:7764): 127.0.0.1
+[INFO] 21:09:00:754 un logueo/(7764:7764): Obteniendo datos
+[INFO] 21:09:00:754 un logueo/(7764:7764): 4444
+[INFO] 21:09:00:754 un logueo/(7764:7764): Conexion iniciada!
+[INFO] 21:14:56:332 unProgramaQueLOguea/(8626:8626): Soy un log
+[INFO] 21:14:56:335 un logueo/(8626:8626): Iniciando conexion
+[INFO] 21:14:56:335 un logueo/(8626:8626): Obteniendo datos
+[INFO] 21:14:56:339 un logueo/(8626:8626): 127.0.0.1
+[INFO] 21:14:56:339 un logueo/(8626:8626): Obteniendo datos
+[INFO] 21:14:56:339 un logueo/(8626:8626): 4444
+[INFO] 21:14:56:339 un logueo/(8626:8626): Conexion iniciada!
+[INFO] 21:16:43:12 unProgramaQueLOguea/(8793:8793): Soy un log
+[INFO] 21:16:43:12 un logueo/(8793:8793): Iniciando conexion
+[INFO] 21:16:43:12 un logueo/(8793:8793): Obteniendo datos
+[INFO] 21:16:43:12 un logueo/(8793:8793): 127.0.0.1
+[INFO] 21:16:43:13 un logueo/(8793:8793): Obteniendo datos
+[INFO] 21:16:43:13 un logueo/(8793:8793): 4444
+[INFO] 21:16:43:13 un logueo/(8793:8793): Conexion iniciada!
+[INFO] 21:16:53:590 unProgramaQueLOguea/(8797:8797): Soy un log
+[INFO] 21:16:53:591 un logueo/(8797:8797): Iniciando conexion
+[INFO] 21:16:53:591 un logueo/(8797:8797): Obteniendo datos
+[INFO] 21:16:53:591 un logueo/(8797:8797): 127.0.0.1
+[INFO] 21:16:53:591 un logueo/(8797:8797): Obteniendo datos
+[INFO] 21:16:53:591 un logueo/(8797:8797): 4444
+[INFO] 21:16:53:592 un logueo/(8797:8797): Conexion iniciada!
